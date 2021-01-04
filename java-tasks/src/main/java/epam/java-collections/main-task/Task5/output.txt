@@ -1,0 +1,11 @@
+Name: Unkle - Hold my hand , Duration: 4.59, Style: ROCK
+Name: Килограмм - Меня радует , Duration: 3.29, Style: RAP_AND_HIPHOP
+Name: Nickelback - Breathe , Duration: 3.58, Style: ROCK
+Name: Travis - Flowers in the window , Duration: 3.41, Style: BLUES
+Name: Thievery corporation - Depth of my soul, Duration: 3.23, Style: ELECTRONIC
+Name: Iron maiden - Fear of the dark , Duration: 7.16, Style: METAL
+Name: Louis Armstrong - What a wonderful world , Duration: 2.17, Style: JAZZ
+Name: Beethoven - Moonlight Sonata , Duration: 15.0, Style: CLASSIC
+Name: Lissie - When im alone , Duration: 3.43, Style: POP
+Name: Creedence clearwater revival - Looking out my back door  , Duration: 2.34, Style: REGGAE
+Name: God is an astronaut - Autumn song , Duration: 3.47, Style: ALTERNATIVE
